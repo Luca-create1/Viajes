@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\bin\Debug\Viajes.exe.config
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\bin\Debug\Viajes.exe
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\bin\Debug\Viajes.pdb
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.frmViaje.resources
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.Properties.Resources.resources
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.exe
+C:\Users\dell\Desktop\UTN\GUIA DE EJERCICIOS\PROGRAMACION\Viajes\obj\Debug\Viajes.pdb
